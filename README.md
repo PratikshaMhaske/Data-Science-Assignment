@@ -3,8 +3,7 @@ It includes practice tasks, case studies, code exercises, and mini-projects cove
 
 This collection reflects my hands-on learning, consistency, and strong foundation in Data Science & Machine Learning.
 
-**Author
-**
+**Author**
 
 **Pratiksha** **Mhaske** **–** **Engineer**
 
