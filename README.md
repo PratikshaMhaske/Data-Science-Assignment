@@ -5,7 +5,7 @@ This collection reflects my hands-on learning, consistency, and strong foundatio
 
 **Author**
 
-**Pratiksha** **Mhaske** **–** **Engineer**
+**Er. Pratiksha** **Mhaske**
 
 **LinkedIn:** https://www.linkedin.com/in/pratiksha-mhaske-173643387
 
