@@ -7,6 +7,6 @@ This collection reflects my hands-on learning, consistency, and strong foundatio
 
 **Er. Pratiksha** **Mhaske**
 
-**LinkedIn:** https://www.linkedin.com/in/pratiksha-mhaske-173643387
+**LinkedIn:** https://www.linkedin.com/in/pratiksha-mhaske
 
 **GitHub:** https://github.com/PratikshaMhaske
